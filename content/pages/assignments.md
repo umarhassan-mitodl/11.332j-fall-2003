@@ -15,7 +15,7 @@ uid: 62bee747-eb37-c110-3960-f5474b41cfe6
 Each student will select (or be assigned) two of the following readings and write a one-page summary for each. The summary should identify the interests of the various stakeholders. Further, students should identify what characteristics (social, academic or, where applicable, physical) these stakeholders consider important for future growth in and around the MIT campus. Students should understand potential conflicts and think about potential remedies.
 
 1. Simha, Robert O. _MIT Planning 1960-2000: An Annotated Chronology._ Cambridge, MA: MIT Office of the Executive Vice President, 2001. Rotch Library. T171.M423.S56 2001.
-2. Report of the Presidential Task Force on Student Life & Learning: [Task Force on Student Life and Learning](http://web.mit.edu/committees/sll).
+2. Report of the Presidential Task Force on Student Life & Learning: {{% resource_link "8f90798e-d2a8-4fe7-a9ab-22b08aec9420" "Task Force on Student Life and Learning" %}}.
 3. Roberts, Jeffrey C. "Is MIT a Good Place to Live? The University Campus as a Residential Environment." MCP Thesis (MIT, 2003). To be distributed.
 4. Williams, Rosalind H. _Retooling: A Historian Confronts Technological Change._ Cambridge, MA: MIT Press, 2002. Humanities Library. T173.8.W55 2002.
 
