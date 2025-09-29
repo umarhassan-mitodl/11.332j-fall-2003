@@ -5,6 +5,8 @@ description: This file contains images depicting Harvard Business School and Suf
 file: /courses/11-332j-urban-design-fall-2003/fe8b7e98bc8d96c6bf4f2a8d1e57fba5_iphbs_suffolk_slides.pdf
 file_size: 1731845
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

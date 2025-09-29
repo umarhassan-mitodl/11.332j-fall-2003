@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-332j-urban-design-fall-2003/448525071653bf4eb7eb8c5a24e21231_ipsession1.pdf
 file_size: 169444
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

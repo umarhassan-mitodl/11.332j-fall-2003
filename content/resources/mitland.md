@@ -4,6 +4,8 @@ description: ''
 file: /courses/11-332j-urban-design-fall-2003/0511c97922b7facb4582aa624ca01b0b_mitland.pdf
 file_size: 454183
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
