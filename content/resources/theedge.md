@@ -5,8 +5,6 @@ description: 'Proofs for the final publication of class project -- "The Future o
 file: /courses/11-332j-urban-design-fall-2003/9ba1a3faca39b1ee9d709cce9e1bb1bb_TheEdge.pdf
 file_size: 405557
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
